@@ -13,21 +13,12 @@
 </div>
 
 <div align="center">
-    <h3>
-        Jorhel Bdr
-        <br>
+    <h3>Jorhel Bdr</h3>
+    <h4>
         Currently @ SEMJuice + Freelance Developer
         <br>
         Montpellier, France 🇫🇷
-    </h3>
-</div>
-
-<div align="center">
-    <h3>Jorhel Bdr | Currently @ SEMJuice + Freelance Developer | Montpellier, France </h3>
-</div>
-
-<div align="center">
-    <h3>Jorhel Bdr | Currently @ SEMJuice + Freelance Developer | Montpellier, France </h3>
+    </h4>
 </div>
 
 <div align="center">
