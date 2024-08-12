@@ -3,28 +3,26 @@
 </div>
 
 <div align="center">
-    <a href="mailto:contact@lehroj.xyz">Mail</a>
+    <a href="mailto:contact@lehroj.xyz" target="_blank">Mail</a>
     &nbsp;|&nbsp;
-    <a href="https://linkedin.com/in/lehroj">LinkedIn</a>
+    <a href="https://linkedin.com/in/lehroj" target="_blank">LinkedIn</a>
     &nbsp;|&nbsp;
-    <a href="https://twitter.com/_lehroj">Twitter</a>
-    &nbsp;|&nbsp;
-    <a href="https://instagram.com/_lehroj">Instagram</a>
+    <a href="https://twitter.com/_lehroj" target="_blank">Twitter</a>
 </div>
 
 <div align="center">
     <h3>Jorhel Bdr</h3>
     <h4>
-        Currently @ [SEMJuice](https://semjuice.com) + [Freelance](https://lehroj.xyz)
+        Currently @ <a href="https://semjuice.com" target="_blank">SEMJuice</a> + <a href="https://lehroj.xyz" target="_blank">Freelance</a>
         <br>
         Montpellier, France 🇫🇷
     </h4>
 </div>
 
 <div align="center">
-    <a href="https://lehroj.github.io/resume">Resume</a>
+    <a href="https://lehroj.github.io/resume" target="_blank">Resume</a>
     &nbsp;|&nbsp;
-    <a href="https://lehroj.github.io/uses">Uses</a>
+    <a href="https://lehroj.github.io/uses" target="_blank">Uses</a>
     &nbsp;|&nbsp;
-    <a href="https://github.com/lehroj/setup">Setup</a>
+    <a href="https://github.com/lehroj/setup" target="_blank">Setup</a>
 </div>
