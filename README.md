@@ -15,7 +15,7 @@
 <div align="center">
     <h3>Jorhel Bdr</h3>
     <h4>
-        Currently @ SEMJuice + Freelance Developer
+        Currently @ [SEMJuice](https://semjuice.com) + [Freelance](https://lehroj.xyz)
         <br>
         Montpellier, France 🇫🇷
     </h4>
