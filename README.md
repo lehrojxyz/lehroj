@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-    <h3>Jorhel Bdr</h3>
+    <h3>Jorhel Bourdier</h3>
     <h4>
         Currently @ <a href="https://semjuice.com">SEMJuice</a> + <a href="https://lehroj.xyz">Freelance</a>
         <br>
