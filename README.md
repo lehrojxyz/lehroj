@@ -5,7 +5,7 @@
 <div align="center">
     <a href="mailto:contact@lehroj.xyz">Mail</a>
     &nbsp;|&nbsp;
-    <a href="https://linkedin.com/in/lehroj">LinkedIn</a>
+    <a href="https://linkedin.com/in/jorhelbourdier">LinkedIn</a>
     &nbsp;|&nbsp;
     <a href="https://twitter.com/_lehroj">Twitter</a>
 </div>
@@ -23,6 +23,4 @@
     <a href="https://lehroj.github.io/resume">Resume</a>
     &nbsp;|&nbsp;
     <a href="https://lehroj.github.io/uses">Uses</a>
-    &nbsp;|&nbsp;
-    <a href="https://github.com/lehroj/setup">Setup</a>
 </div>
