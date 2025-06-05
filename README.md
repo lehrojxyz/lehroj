@@ -5,9 +5,9 @@
 <div align="center">
     <a href="mailto:contact@lehroj.xyz">Mail</a>
     &nbsp;|&nbsp;
-    <a href="https://linkedin.com/in/jorhelbourdier">LinkedIn</a>
+    <a href="https://linkedin.com/in/lehrojxyz">LinkedIn</a>
     &nbsp;|&nbsp;
-    <a href="https://twitter.com/_lehroj">Twitter</a>
+    <a href="https://twitter.com/lehrojxyz">Twitter</a>
 </div>
 
 <div align="center">
@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-    <a href="https://lehroj.github.io/resume">Resume</a>
+    <a href="https://lehrojxyz.github.io/resume">Resume</a>
     &nbsp;|&nbsp;
-    <a href="https://lehroj.github.io/uses">Uses</a>
+    <a href="https://lehrojxyz.github.io/uses">Uses</a>
 </div>
